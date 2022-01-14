@@ -124,4 +124,11 @@ addEventListener(
 * 请参考 [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) `推荐`
 * 请参考 [better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip)
 
+## 📢免费容器📢 
 
+☁️[Railway]`https://railway.app?referralCode=payday4478`
+>👥[专属邀请码]`payday4478`(获得5美元)
+
+☁️[Heroku] `https://www.heroku.com`
+
+☁️[Okteto] `https://okteto.com`
